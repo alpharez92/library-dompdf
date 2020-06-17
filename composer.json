@@ -1,0 +1,6 @@
+{
+    "name": "rizki/belajarcomposer",
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
